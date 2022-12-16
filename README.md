@@ -1,2 +1,2 @@
 # LeetCode
-->python
+>python
