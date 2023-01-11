@@ -1,4 +1,4 @@
-###### tags: `Stack`,`Tree`,`Depth-First Search`,`Binary Tree`
+###### tags: `Stack`, `Tree`, `Depth-First Search`, `Binary Tree`
 
 # LeetCode 144.Binary Tree Preorder Traversal
 
