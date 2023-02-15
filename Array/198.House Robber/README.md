@@ -33,6 +33,7 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 >如果只有一家那我們沒有選擇只能是那一家；如果有兩家的時候我們會選擇錢比較多的那一家；當我們有三家的時候此時就會需要比較 ==第一家加上第三家== 和 ==第二家== 哪一個比較大。
 ### Solution:
 
+Python:
 ```python=
 class Solution:
     def rob(self, nums: List[int]) -> int:
@@ -51,6 +52,9 @@ class Solution:
             return total[-1]
 ```
 
+C++:
+```cpp=
+```
 
 ---
 ### Dynamic Idea:
@@ -58,6 +62,7 @@ class Solution:
 
 ### Dynamic Solution
 
+Python:
 ```python=
 class Solution:
     def rob(self, nums: List[int]) -> int:
@@ -75,4 +80,8 @@ class Solution:
                 prevtwo = max(prevtwo, prevone)
                 prevone = max(prevone, new)
             return max(prevtwo, prevone)
+```
+
+C++:
+```cpp=
 ```
