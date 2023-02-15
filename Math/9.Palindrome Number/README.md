@@ -27,15 +27,12 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 ### Constraints:
 
 - $-2^{31} <= x <= 2^{31} - 1$
-
-
-
-
 ---
 ### Idea:
 >
 ### Solution
 
+Python:
 ```python=
 class Solution:
     import math
@@ -47,4 +44,8 @@ class Solution:
             result = result * 10 + x % 10
             x = x // 10
         return True if (x == result or x == result // 10) else False
+```
+
+C++
+```cpp=
 ```

@@ -28,7 +28,6 @@ Input: head = [4,5,1,9], node = 5
 Output: [4,1,9]
 Explanation: You are given the second node with value 5, the linked list should become 4 -> 1 -> 9 after calling your function.
 ```
-
 >Example 2:
 >![圖片名稱](https://assets.leetcode.com/uploads/2020/09/01/node2.jpg)
 ```
@@ -42,14 +41,12 @@ Explanation: You are given the third node with value 1, the linked list should b
 - $-1000 <= Node.val <= 1000$
 - The value of each node in the list is unique.
 - The node to be deleted is in the list and is not a tail node.
-
-
-
 ---
 ### Idea:
 >
 ### Solution
 
+Python:
 ```python=
 # Definition for singly-linked list.
 # class ListNode:
@@ -60,4 +57,8 @@ class Solution:
     def deleteNode(self, node):
         node.val=node.next.val
         node.next=node.next.next
+```
+
+C++:
+```cpp=
 ```

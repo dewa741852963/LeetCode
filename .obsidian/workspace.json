@@ -13,44 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array/1929.Concatenation of Array/README.md",
+                "file": "Math/67.Add Binary/README.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "85a41cad935821d7"
           }
         ]
       },
       {
-        "id": "645e2b5368dedfa0",
+        "id": "d76ce66031b437ee",
         "type": "tabs",
         "children": [
           {
-            "id": "a0bdd00a8a2d7264",
+            "id": "fc4a73901c2e5f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case.md",
+                "file": "Math/67.Add Binary/README.md",
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "4d7320e814dff169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Array/1929.Concatenation of Array/README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
+            },
+            "group": "85a41cad935821d7"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array/1929.Concatenation of Array/README.md",
+                "file": "Math/67.Add Binary/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array/1929.Concatenation of Array/README.md",
+                "file": "Math/67.Add Binary/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array/1929.Concatenation of Array/README.md"
+                "file": "Math/67.Add Binary/README.md"
               }
             }
           }
@@ -179,15 +168,15 @@
   },
   "active": "6e373cf3c80cd4da",
   "lastOpenFiles": [
-    "Array/989.Add to Array-Form of Integer/README.md",
+    "Math/9.Palindrome Number/README.md",
+    "Linked List/237.Delete Node in a Linked List/README.md",
+    "Linked List/21.Merge Two Sorted Lists/README.md",
+    "Hash Table/13.Roman to Integer/README.md",
     "Array/1929.Concatenation of Array/README.md",
+    "Array/989.Add to Array-Form of Integer/README.md",
     "Array/1207.Unique Number of Occurrences/README.md",
     "Array/976.Largest Perimeter Triangle/README.md",
     "Case.md",
-    "Array/198.House Robber/README.md",
-    "Array/66.Plus One/README.md",
-    "Array/35.Search Insert Position/README.md",
-    "Array/26.Remove Duplicates from Sorted Array/README.md",
-    "Array/1.Two Sum/README.md"
+    "Array/198.House Robber/README.md"
   ]
 }
