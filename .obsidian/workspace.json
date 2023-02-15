@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array/1.Two Sum/README.md",
+                "file": "Simep.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array/1.Two Sum/README.md",
+                "file": "Simep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array/1.Two Sum/README.md",
+                "file": "Simep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array/1.Two Sum/README.md"
+                "file": "Simep.md"
               }
             }
           }
@@ -164,8 +164,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6e373cf3c80cd4da",
+  "active": "6942041961cf5dd8",
   "lastOpenFiles": [
+    "Array/1.Two Sum/README.md",
     "Programming Paradigm Note/String to int or int to string.md",
     "README.md"
   ]
