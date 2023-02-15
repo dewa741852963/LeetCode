@@ -10,7 +10,6 @@ Input: nums = [2,1,2]
 Output: 5
 Explanation: You can form a triangle with three side lengths: 1, 2, and 2.
 ```
-
 >Example 2:
 ```
 Input: nums = [1,2,1,10]
@@ -27,15 +26,12 @@ As we cannot use any three side lengths to form a triangle of non-zero area, we 
 
 - $3 <= nums.length <= 10^4$
 - $1 <= nums[i] <= 10^6$
-
-
-
-
 ---
 ### Idea:
 >
 ### Solution
 
+Python:
 ```python=
 class Solution:
     def largestPerimeter(self, nums: List[int]) -> int:
@@ -46,4 +42,8 @@ class Solution:
                 return nums[i] + nums[i-1]+ nums[i-2]
         return 0
         
+```
+
+C++:
+```cpp=
 ```

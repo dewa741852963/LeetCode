@@ -15,7 +15,6 @@ Input: num = [1,2,0,0], k = 34
 Output: [1,2,3,4]
 Explanation: 1200 + 34 = 1234
 ```
-
 >Example 2:
 ```
 Input: num = [2,7,4], k = 181
@@ -36,14 +35,11 @@ Explanation: 215 + 806 = 1021
 - $0 <= num[i] <= 9$
 - ```num``` does not contain any leading zeros except for the zero itself.
 - $1 <= k <= 10^4$
-
-
-
-
 ---
 ### Idea:
 >num 加上 array 最後一個數字之後除以10，就會是 array 最後一個位子的數值，以此類推。如果最後 num 還有數值，就會把 num 值放到 array 的最前面。
 ### Solution:
+
 Python:
 ```python=
 class Solution:
@@ -57,6 +53,7 @@ class Solution:
 
     return num
 ```
+
 C++:
 ```cpp=
 class Solution 
