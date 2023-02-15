@@ -14,7 +14,6 @@ Explanation: The array represents the integer 123.
 Incrementing by one gives 123 + 1 = 124.
 Thus, the result should be [1,2,4].
 ```
-
 >Example 2:
 ```
 Input: digits = [4,3,2,1]
@@ -38,14 +37,12 @@ Thus, the result should be [1,0].
 - $1 <= digits.length <= 100$
 - $-0 <= digits[i] <= 9$
 - ```digits``` does not contain any leading ```0```'s.
-
-
-
 ---
 ### Idea:
 >
 ### Solution
 
+Python:
 ```python=
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
@@ -59,4 +56,8 @@ class Solution:
         for i in range(len(tostr)):
             num.append(tostr[i])
         return num
+```
+
+C++:
+```cpp=
 ```

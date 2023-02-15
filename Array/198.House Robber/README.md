@@ -14,7 +14,6 @@ Output: 4
 Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
 Total amount you can rob = 1 + 3 = 4.
 ```
-
 >Example 2:
 ```
 Input: nums = [2,7,9,3,1]
@@ -27,12 +26,8 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 
 ### Constraints:
 
-     
-    1 <= nums.length <= 100
-    0 <= nums[i] <= 400
-
-
-
+- 1 <= nums.length <= 100
+-  0 <= nums[i] <= 400
 ---
 ### Idea:
 >如果只有一家那我們只能偷那一家；如果有兩家的時候我們會選擇錢比較多的那一家；當我們有三家的時候此時就會需要比較 ==第一家加上第三家== 和 ==第二家== 哪一個比較大。
