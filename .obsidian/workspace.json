@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Array/1.Two Sum/README.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programming Paradigm Note/String to int or int to string.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Array/1.Two Sum/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Array/1.Two Sum/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Array/1.Two Sum/README.md"
               }
             }
           }
@@ -164,6 +164,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6942041961cf5dd8",
-  "lastOpenFiles": []
+  "active": "6e373cf3c80cd4da",
+  "lastOpenFiles": [
+    "Programming Paradigm Note/String to int or int to string.md",
+    "README.md"
+  ]
 }
