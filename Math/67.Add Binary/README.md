@@ -75,7 +75,7 @@ class Solution:
     return ''.join(reversed(s))
     
 ```
-
+c++ 解法
 ```cpp=
 class Solution {
 public:
@@ -91,18 +91,18 @@ public:
         while(i >= 0 || j >= 0 || carry) {
             // Add the current binary digit in string a, if the pointer is still within bounds
             if(i >= 0) {
-                carry += a[i] - '0';
+                carry += a[i] - '0';//char 轉換成 int
                 i--;
             }
             
             // Add the current binary digit in string b, if the pointer is still within bounds
             if(j >= 0) {
-                carry += b[j] - '0';
+                carry += b[j] - '0';//char 轉換成 int
                 j--;
             }
             
             // Calculate the next binary digit in the result by taking the remainder of the sum divided by 2
-            ans += (carry % 2 + '0');
+            ans += (carry % 2 + '0');//int 轉換成 char
             
             // Calculate the next carry-over value by dividing the sum by 2
             carry = carry / 2;
