@@ -25,9 +25,10 @@ Output: "10101"
 - Each string does not contain leading zeros except for the zero itself.
 ---
 ### Idea:
->我們可以把把每一個為
+>利用加法器的原理，每一個位元都有加數、被加數和 carry，找出之後把他們加總就會是答案。
 ### Solution:
 
+Python:
 ```python=
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
@@ -49,6 +50,7 @@ class Solution:
                 c = str(inc)
         return c
 ```
+
 最佳解：
 ```python=
 class Solution:
@@ -71,7 +73,8 @@ class Solution:
     return ''.join(reversed(s))
     
 ```
-c++ 解法
+
+C++:
 ```cpp=
 class Solution {
 public:

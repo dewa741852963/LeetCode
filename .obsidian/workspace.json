@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/67.Add Binary/README.md",
+                "file": "Math/70.Climbing Stairs/README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/67.Add Binary/README.md",
+                "file": "Math/70.Climbing Stairs/README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/67.Add Binary/README.md",
+                "file": "Math/70.Climbing Stairs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/67.Add Binary/README.md",
+                "file": "Math/70.Climbing Stairs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/67.Add Binary/README.md"
+                "file": "Math/70.Climbing Stairs/README.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   },
   "active": "6e373cf3c80cd4da",
   "lastOpenFiles": [
+    "Math/67.Add Binary/README.md",
     "Math/9.Palindrome Number/README.md",
     "Linked List/237.Delete Node in a Linked List/README.md",
     "Linked List/21.Merge Two Sorted Lists/README.md",
@@ -176,7 +177,6 @@
     "Array/989.Add to Array-Form of Integer/README.md",
     "Array/1207.Unique Number of Occurrences/README.md",
     "Array/976.Largest Perimeter Triangle/README.md",
-    "Case.md",
-    "Array/198.House Robber/README.md"
+    "Case.md"
   ]
 }
