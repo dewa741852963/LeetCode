@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simep.md",
+                "file": "Array/26.Remove Duplicates from Sorted Array/README.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,13 +31,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Paradigm Note/String to int or int to string.md",
-                "mode": "preview",
+                "file": "Case.md",
+                "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "4d7320e814dff169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array/26.Remove Duplicates from Sorted Array/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simep.md",
+                "file": "Array/26.Remove Duplicates from Sorted Array/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simep.md",
+                "file": "Array/26.Remove Duplicates from Sorted Array/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simep.md"
+                "file": "Array/26.Remove Duplicates from Sorted Array/README.md"
               }
             }
           }
@@ -164,9 +177,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6942041961cf5dd8",
+  "active": "4d7320e814dff169",
   "lastOpenFiles": [
     "Array/1.Two Sum/README.md",
+    "Array/26.Remove Duplicates from Sorted Array/README.md",
+    "Case.md",
     "Programming Paradigm Note/String to int or int to string.md",
     "README.md"
   ]
