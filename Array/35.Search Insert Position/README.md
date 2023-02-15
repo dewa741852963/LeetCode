@@ -33,7 +33,7 @@ Output: 4
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
 Python:
 ```python=

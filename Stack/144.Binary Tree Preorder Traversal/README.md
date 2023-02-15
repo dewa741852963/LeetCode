@@ -13,7 +13,6 @@ Given the ```root``` of a binary tree, return the preorder traversal of its node
 Input: root = [1,null,2,3]
 Output: [1,2,3]
 ```
-
 >Example 2:
 ```
 Input: root = []
@@ -30,15 +29,12 @@ Output: [1]
 
 - The number of nodes in the tree is in the range ```[0, 100]```
 - $-100 <= Node.val <= 100$
-
-
-
-
 ---
 ### Idea:
 >先把右邊的印完再印左邊的就可以了。
-### Solution
+### Solution:
 
+Python:
 ```python=
 # Definition for a binary tree node.
 # class TreeNode:
@@ -58,4 +54,8 @@ class Solution:
             dfs(node.right)
         dfs(root)
         return ans
+```
+
+C++:
+```cpp
 ```

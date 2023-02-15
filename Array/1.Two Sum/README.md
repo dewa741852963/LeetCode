@@ -36,7 +36,7 @@ Output: [0,1]
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
 Python:
 ```python

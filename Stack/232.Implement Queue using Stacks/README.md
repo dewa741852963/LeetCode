@@ -43,14 +43,12 @@ myQueue.empty(); // return false
 - $1 <= x <= 9$
 - At most 100 calls will be made to push, pop, peek, and empty.
 - All the calls to pop and peek are valid..
-
-
-
 ---
 ### Idea:
 >用 list 模擬 stack 操作，刪除的時候利用一個 stack pop 到另一個 stack push 這樣就可以刪除先進來的值，接著再做一次同樣的操作就可以把 stack 還原回去原本的順序。
-### Solution
+### Solution:
 
+Python:
 ```python=
 class MyQueue:
 
@@ -77,4 +75,8 @@ class MyQueue:
 # param_2 = obj.pop()
 # param_3 = obj.peek()
 # param_4 = obj.empty()
+```
+
+C++:
+```cpp
 ```

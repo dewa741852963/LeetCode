@@ -33,7 +33,7 @@ Explanation: The array ans is formed as follows:
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
 Python:
 ```python=

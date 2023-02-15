@@ -33,8 +33,9 @@ Explanation: There are three ways to climb to the top.
 ---
 ### Idea:
 >我們可以把它當作下樓梯的問題，每一次我們可以選擇一格或是兩格，所以總共就會需要 ```n = (n-1) + (n-2)``` 次。接著我們需要利用動態規劃，把每一次計算的結果存在 list 中，就可以利用空間來減少計算量。
-### Solution
+### Solution:
 
+Python:
 ```python=
 class Solution:
     def climbStairs(self, n: int) -> int:
@@ -46,4 +47,8 @@ class Solution:
                 print(his)
                 his.append(his[i-2] + his[i-1])
         return his[-1]
+```
+
+C++:
+```cpp
 ```

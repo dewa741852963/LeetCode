@@ -16,7 +16,6 @@ Input: n = 2
 Output: 1
 Explanation: F(2) = F(1) + F(0) = 1 + 0 = 1.
 ```
-
 >Example 2:
 ```
 Input: n = 3
@@ -34,18 +33,19 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 ### Constraints:
 
 - $0 <= n <= 30$
-
-
-
-
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
+Python:
 ```python=
 class Solution:
     def fib(self, n: int) -> int:
         sqrt5 = sqrt(5)
         return int((pow(1 + sqrt5, n) - pow(1 - sqrt5, n)) / pow(2, n) / sqrt5)
+```
+
+C++:
+```cpp=
 ```

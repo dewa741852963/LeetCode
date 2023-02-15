@@ -31,7 +31,7 @@ Output: true
 ### Idea:
 >先計算每一個數字出現的次數，並且存放到 list 中，再用 set 刪除相同出現的次數，最後比較 list 和 原先的arr 的長度就可以知道有沒有出現相同次數的數字。  
 >
-### Solution
+### Solution:
 
 Python:
 ```python=

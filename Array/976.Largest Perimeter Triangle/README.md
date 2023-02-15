@@ -29,7 +29,7 @@ As we cannot use any three side lengths to form a triangle of non-zero area, we 
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
 Python:
 ```python=

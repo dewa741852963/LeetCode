@@ -40,7 +40,7 @@ Thus, the result should be [1,0].
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
 Python:
 ```python=

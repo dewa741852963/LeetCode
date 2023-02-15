@@ -44,7 +44,7 @@ Explanation: You are given the third node with value 1, the linked list should b
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
 Python:
 ```python=

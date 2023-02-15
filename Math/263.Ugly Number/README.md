@@ -13,7 +13,6 @@ Input: n = 6
 Output: true
 Explanation: 6 = 2 × 3
 ```
-
 >Example 2:
 ```
 Input: n = 1
@@ -31,15 +30,12 @@ Explanation: 14 is not ugly since it includes the prime factor 7.
 ### Constraints:
 
 - $-2^{31} <= n <= 2^{31} - 1$
-
-
-
-
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
+Python:
 ```python=
 class Solution:
     def isUgly(self, n: int) -> bool:
@@ -59,4 +55,8 @@ class Solution:
                 else:
                     return False
             return True
+```
+
+C++:
+```cpp
 ```
