@@ -1,3 +1,7 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "cmenu-plugin",
+  "obsidian-hover-editor",
+  "markdown-shortcuts",
+  "obsidian-shellcommands"
 ]
