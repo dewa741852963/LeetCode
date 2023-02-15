@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "645e2b5368dedfa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0bdd00a8a2d7264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"

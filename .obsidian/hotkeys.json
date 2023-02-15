@@ -34,5 +34,13 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-shellcommands:shell-command-dlohedtaod": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
   ]
 }

@@ -1,1 +1,3 @@
 # LeetCode
+### Pyhton
+### C++
