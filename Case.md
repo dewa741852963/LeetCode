@@ -40,6 +40,7 @@ Output: [0,1]
 ### Idea:
 >
 ### Solution:
+
 Python:
 ```python=
 class Solution:
@@ -51,6 +52,7 @@ class Solution:
                 return [i, hashmap[complement]]
             hashmap[nums[i]] = i
 ```
+
 C++:
 ```cpp=
 ```

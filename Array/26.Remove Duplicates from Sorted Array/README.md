@@ -56,6 +56,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ### Idea:
 >
 ### Solution
+
 Python:
 ```python=
 class Solution:
@@ -70,6 +71,7 @@ class Solution:
         nums = k
         return length+1
 ```
+
 C++:
 ```cpp=
 ```
