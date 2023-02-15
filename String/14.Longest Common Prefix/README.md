@@ -11,7 +11,6 @@ If there is no common prefix, return an empty string ```""```.
 Input: strs = ["flower","flow","flight"]
 Output: "fl"
 ```
-
 >Example 2:
 ```
 Input: strs = ["dog","racecar","car"]
@@ -24,14 +23,12 @@ Explanation: There is no common prefix among the input strings.
 - $1 <= strs.length <= 200$
 - $0 <= strs[i].length <= 200$
 - ```strs[i]``` consists of only lowercase English letters.
-
-
-
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
+Python:
 ```python=
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
@@ -52,4 +49,8 @@ class Solution:
             add=strs[0]
             
         return(add)
+```
+
+C++:
+```cpp=
 ```

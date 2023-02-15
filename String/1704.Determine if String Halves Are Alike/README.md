@@ -16,7 +16,6 @@ Input: s = "book"
 Output: true
 Explanation: a = "bo" and b = "ok". a has 1 vowel and b has 1 vowel. Therefore, they are alike.
 ```
-
 >Example 2:
 ```
 Input: s = "textbook"
@@ -33,14 +32,12 @@ Notice that the vowel o is counted twice.
 - ```s.length``` is even.
 - $-10^9 <= target <= 10^9$
 - ```s``` consists of uppercase and lowercase letters.
-
-
-
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
+Python:
 ```python=
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:
@@ -58,4 +55,8 @@ class Solution:
             return True
         else:
             return False
+```
+
+C++:
+```cpp=
 ```

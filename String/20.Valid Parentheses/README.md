@@ -17,7 +17,6 @@ Every close bracket has a corresponding open bracket of the same type.
 Input: s = "()"
 Output: true
 ```
-
 >Example 2:
 ```
 Input: s = "()[]{}"
@@ -34,14 +33,12 @@ Output: false
 
 - $1 <= s.length <= 10^4$
 - ```s``` consists of parentheses only ```'()[]{}'```.
-
-
-
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
+Python:
 ```python=
 class Solution:
     def isValid(self, s: str) -> bool:
@@ -72,4 +69,8 @@ class Solution:
                 return False
         if stack==[]:
             return True
+```
+
+C++:
+```cpp=
 ```

@@ -57,5 +57,5 @@ class Solution:
 ```
 
 C++:
-```cpp
+```cpp=
 ```

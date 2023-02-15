@@ -20,7 +20,6 @@ Input: s = "leEeetcode"
 Output: "leetcode"
 Explanation: In the first step, either you choose i = 1 or i = 2, both will result "leEeetcode" to be reduced to "leetcode".
 ```
-
 >Example 2:
 ```
 Input: s = "abBAcC"
@@ -40,14 +39,12 @@ Output: "s"
 
 - $1 <= s.length <= 100$
 - ```s``` contains only lower and upper case English letters.
-
-
-
 ---
 ### Idea:
 >
-### Solution
+### Solution:
 
+Python:
 ```python=
 class Solution:
     def makeGood(self, s: str) -> str:
@@ -62,4 +59,8 @@ class Solution:
             else:
                 result.append(c)
         return ''.join(result)
+```
+
+C++
+```cpp=
 ```

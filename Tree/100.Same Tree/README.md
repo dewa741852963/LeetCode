@@ -14,7 +14,6 @@ Two binary trees are considered the same if they are structurally identical, and
 Input: p = [1,2,3], q = [1,2,3]
 Output: true
 ```
-
 >Example 2:
 
 ![image alt](https://assets.leetcode.com/uploads/2020/12/20/ex2.jpg)
@@ -35,15 +34,12 @@ Output: false
 
 - The number of nodes in both trees is in the range ```[0, 100]```.
 - $-10^4 <= Node.val <= 10^4$
-
-
-
-
 ---
 ### Idea:
 >利用遞回的方式去判斷兩棵樹相同節點，有沒有一樣。
 ### Solution
 
+Python:
 ```python=
 # Definition for a binary tree node.
 # class TreeNode:
@@ -60,4 +56,8 @@ class Solution:
         if p.val != q.val:
             return False
         return self.isSameTree(p.left,q.left) and self.isSameTree(p.right,q.right) 
+```
+
+C++:
+```cpp=
 ```

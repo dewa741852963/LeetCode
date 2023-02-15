@@ -78,5 +78,5 @@ class MyQueue:
 ```
 
 C++:
-```cpp
+```cpp=
 ```
