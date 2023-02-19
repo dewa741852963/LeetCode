@@ -35,7 +35,7 @@ Output: [0,1]
      Only one valid answer exists.
 ---
 ### Idea:
->
+> target 減掉某一個位子的數字，剩餘的如果沒有出現就會是 
 ### Solution:
 
 Python:
