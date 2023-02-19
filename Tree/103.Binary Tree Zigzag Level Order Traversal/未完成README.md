@@ -6,7 +6,7 @@ Given the `root` of a binary tree, return _the zigzag level order traversal of i
  
 
 >Example 1:
->![][https://assets.leetcode.com/uploads/2021/02/19/tree1.jpg]
+>![imge](https://assets.leetcode.com/uploads/2021/02/19/tree1.jpg)
 ```
 Input: root = [3,9,20,null,null,15,7]
 Output: [[3],[20,9],[15,7]]
@@ -33,6 +33,7 @@ Output: []
 
 ### Idea:
 >https://leetcode.wang/leetcode-102-Binary-Tree-Level-Order-Traversal.html
+>https://leetcode.wang/leetcode-103-Binary-Tree-Zigzag-Level-Order-Traversal.html
 ### Solution:
 
 Python:
