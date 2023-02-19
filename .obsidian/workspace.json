@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/104.Maximum Depth of Binary Tree/README.md",
+                "file": "Tree/783.Minimum Distance Between BST Nodes/README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/104.Maximum Depth of Binary Tree/README.md",
+                "file": "Tree/783.Minimum Distance Between BST Nodes/README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree/104.Maximum Depth of Binary Tree/README.md",
+                "file": "Tree/783.Minimum Distance Between BST Nodes/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/104.Maximum Depth of Binary Tree/README.md",
+                "file": "Tree/783.Minimum Distance Between BST Nodes/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree/104.Maximum Depth of Binary Tree/README.md"
+                "file": "Tree/783.Minimum Distance Between BST Nodes/README.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   },
   "active": "6e373cf3c80cd4da",
   "lastOpenFiles": [
-    "Tree/100.Same Tree/README.md",
     "Tree/104.Maximum Depth of Binary Tree/README.md",
+    "Tree/100.Same Tree/README.md",
     "Tree/783.Minimum Distance Between BST Nodes/README.md",
     "Array/1.Two Sum/README.md",
     "Programming Paradigm Note/return 0 and return -1.md",
