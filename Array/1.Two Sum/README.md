@@ -35,7 +35,7 @@ Output: [0,1]
      Only one valid answer exists.
 ---
 ### Idea:
-> 把每一個 nums 中的數
+> 把每一個 nums 中的數字先進行標記，接這用 target 減每一個 nums 中的數字就可以得到 complement ，接著再查看 complement 有沒有出現在過去的標記中，有出現就進行回傳，沒有繼續尋找直到全部找完。
 ### Solution:
 
 Python:
