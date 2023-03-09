@@ -19,8 +19,19 @@
               }
             },
             "group": "85a41cad935821d7"
+          },
+          {
+            "id": "aacbae808d7f547f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d76ce66031b437ee",
@@ -166,7 +177,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6e373cf3c80cd4da",
+  "active": "aacbae808d7f547f",
   "lastOpenFiles": [
     "Case.md",
     "Array/350.Intersection of Two Arrays II/README.md",
