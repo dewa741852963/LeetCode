@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4507a268646db1be",
@@ -166,7 +167,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6e373cf3c80cd4da",
+  "active": "6942041961cf5dd8",
   "lastOpenFiles": [
     "Linked List/21.Merge Two Sorted Lists/README.md",
     "Array/1929.Concatenation of Array/README.md",
