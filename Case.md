@@ -1,19 +1,19 @@
 ###### tags: `Array`
 
-# LeetCode 1.Two Sum
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+# LeetCode 575.Distribute Candies
+Alice has `n` candies, where the `ith` candy is of type `candyType[i]`. Alice noticed that she started to gain weight, so she visited a doctor.
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+The doctor advised Alice to only eat `n / 2` of the candies she has (`n` is always even). Alice likes her candies very much, and she wants to eat the maximum number of different types of candies while still following the doctor's advice.
 
-You can return the answer in any order.  
+Given the integer array `candyType` of length `n`, return _the **maximum** number of different types of candies she can eat if she only eats_ `n / 2` _of them_.
   
  
 
 >Example 1:
 ```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Input:* candyType = [1,1,2,2,3,3]
+**Output:** 3
+**Explanation:** Alice can only eat 6 / 2 = 3 candies. Since there are only 3 types, she can eat one of each type.
 ```
 >Example 2:
 ```
