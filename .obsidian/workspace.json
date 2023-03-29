@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hash Table/242.Valid Anagram/README.md",
+                "file": "Array/1539.Kth Missing Positive Number/README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hash Table/242.Valid Anagram/README.md",
+                "file": "Array/1539.Kth Missing Positive Number/README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hash Table/242.Valid Anagram/README.md",
+                "file": "Array/1539.Kth Missing Positive Number/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hash Table/242.Valid Anagram/README.md",
+                "file": "Array/1539.Kth Missing Positive Number/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hash Table/242.Valid Anagram/README.md"
+                "file": "Array/1539.Kth Missing Positive Number/README.md"
               }
             }
           }
@@ -166,12 +166,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6e373cf3c80cd4da",
+  "active": "6942041961cf5dd8",
   "lastOpenFiles": [
+    "Array/169.Majority Element",
+    "Case.md",
+    "Array/1539.Kth Missing Positive Number/README.md",
+    "Hash Table/242.Valid Anagram/README.md",
+    "Array/1539.Kth Missing Positive Number",
     "Hash Table/17.Letter Combinations of a Phone Number/README.md",
     "Hash Table/290.Word Pattern/README.md",
-    "Hash Table/242.Valid Anagram/README.md",
-    "Case.md",
     "Hash Table/13.Roman to Integer/README.md",
     "Hash Table/242.Valid Anagram",
     "Tree/104.Maximum Depth of Binary Tree/README.md",
@@ -198,7 +201,6 @@
     "Tree/783.Minimum Distance Between BST Nodes/README.md",
     "Math/67.Add Binary/README.md",
     "Math/263.Ugly Number/README.md",
-    "Programming Paradigm Note/return 0 and return -1.md",
-    "Tree/103.Binary Tree Zigzag Level Order Traversal/未完成README.md"
+    "Programming Paradigm Note/return 0 and return -1.md"
   ]
 }
